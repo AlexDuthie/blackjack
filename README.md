@@ -11,7 +11,7 @@ Open the index.html and fire away!
 
 ### The Code
 
-![Code 1](ScreenShots/Code_1.png)
+![Code 1](ScreenShots/Code_1.PNG)
 
 ![Code 2](ScreenShots/Code_2.PNG)
 
